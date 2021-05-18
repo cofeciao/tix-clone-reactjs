@@ -12,17 +12,17 @@ class BannerHeader extends Component {
                     </ol>
                     <div className="carousel-inner">
                         <div className="carousel-item active">
-                            <img className="d-block w-100"
+                            <img className=" w-100 h-100"
                                  src="https://s3img.vcdn.vn/123phim/2020/10/cuc-no-hoa-cuc-cung-pawn-p-16021265927768.png"
                                  alt="First slide"/>
                         </div>
                         <div className="carousel-item">
-                            <img className="d-block w-100"
+                            <img className="d-block w-100 h-100"
                                  src="https://s3img.vcdn.vn/123phim/2020/10/tiec-trang-mau-blood-moon-party-16021267739246.png"
                                  alt="Second slide"/>
                         </div>
                         <div className="carousel-item">
-                            <img className="d-block w-100"
+                            <img className="d-block w-100 h-100"
                                  src="https://s3img.vcdn.vn/123phim/2020/09/rom-c18-16008300686919.png"
                                  alt="Third slide"/>
                         </div>
