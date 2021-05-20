@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tix-clone-reactjs/static/css/main.207798a9.chunk.css",
+    "main.js": "/tix-clone-reactjs/static/js/main.5dbd9b42.chunk.js",
+    "main.js.map": "/tix-clone-reactjs/static/js/main.5dbd9b42.chunk.js.map",
+    "runtime-main.js": "/tix-clone-reactjs/static/js/runtime-main.07eee653.js",
+    "runtime-main.js.map": "/tix-clone-reactjs/static/js/runtime-main.07eee653.js.map",
+    "static/js/2.f38e445b.chunk.js": "/tix-clone-reactjs/static/js/2.f38e445b.chunk.js",
+    "static/js/2.f38e445b.chunk.js.map": "/tix-clone-reactjs/static/js/2.f38e445b.chunk.js.map",
+    "static/js/3.e3c7fcf8.chunk.js": "/tix-clone-reactjs/static/js/3.e3c7fcf8.chunk.js",
+    "static/js/3.e3c7fcf8.chunk.js.map": "/tix-clone-reactjs/static/js/3.e3c7fcf8.chunk.js.map",
+    "index.html": "/tix-clone-reactjs/index.html",
+    "static/css/main.207798a9.chunk.css.map": "/tix-clone-reactjs/static/css/main.207798a9.chunk.css.map",
+    "static/js/2.f38e445b.chunk.js.LICENSE.txt": "/tix-clone-reactjs/static/js/2.f38e445b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07eee653.js",
+    "static/js/2.f38e445b.chunk.js",
+    "static/css/main.207798a9.chunk.css",
+    "static/js/main.5dbd9b42.chunk.js"
+  ]
+}
