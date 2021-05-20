@@ -1,6 +1,9 @@
 
 * {
   box-sizing: border-box;
+  a {
+    text-decoration: none;
+  }
 }
 
 ul li{
@@ -75,20 +78,42 @@ ul li{
     width: 100%;
     height: 80px;
     background-color: white;
-    border: 1px solid black;
+    //border: 1px solid black;
     transform: translate(-50%, -50%);
     position: absolute;
     left: 50%;
     border-radius: 10px;
     margin: auto;
     display: block;
-  }
-  .border-r {
-     border-right: 1px solid black;
+    box-shadow: #B0B0B0;
+    -webkit-box-shadow: 0 0 10px rgba(0,0,0,.3);
   }
 
-  .selectCinema {
+  .selectItem {
+    width: 20%;
+    padding: 30px;
+    background-image: url("https://tix.vn/app/assets/img/icons/dropdown-icon.png");
+    background-repeat: no-repeat;
+    background-position: calc(100% - 8px);
+    cursor: pointer;
+    a {
+      display: inline-block;
+      background-color: #4a4a4a;
+      color: #fff;
+      width: 100%;
+      height: 100%;
+      //font-size: 19px;
+      font-weight: 400;
+      text-align: center;
+      padding-top: 3px;
+      border-radius: 5px;
+      position: relative;
+      top: -9px;
+    }
+  }
 
+  .selectItem:last-child {
+    background-image: none;
   }
 }
 

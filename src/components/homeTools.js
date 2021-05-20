@@ -6,29 +6,21 @@ class HomeTools extends Component {
             <section className="buy-now">
                 <div className="container">
                     <div className="row">
-                        <div className="col-3 border-r">
-                            <div className="selectFilm">
-                                Phim
-                            </div>
+                        <div className="selectFilm selectItem">
+                            Phim
                         </div>
-                        <div className="col-2 border-r">
-                            <div className="selectCinema">
-                                Rạp
-                            </div>
+                        <div className="selectCinema selectItem">
+                            Rạp
                         </div>
-                        <div className="col-2 border-r">
-                            <div className="selectDate">
-                                Ngày Xem
-                            </div>
+                        <div className="selectDate selectItem">
+                            Ngày Xem
                         </div>
-                        <div className="col-2 border-r">
-                            <div className="selectSession">
-                                Suất Chiếu
-                            </div>
+                        <div className="selectSession selectItem">
+                            Suất Chiếu
                         </div>
-                        <div className="col-2 border-r">
-                            <a href="#">
-                                Mua Vé Ngay
+                        <div className="selectMuangay selectItem">
+                            <a href="#" className="btnMuangay">
+                            Mua Vé Ngay
                             </a>
                         </div>
                     </div>
